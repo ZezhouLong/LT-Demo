@@ -1,2 +1,4 @@
 hello world
 modified file after the withdraw operation
+updating one.txt // for experimenting the operation of 'git fetch'
+done
